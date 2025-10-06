@@ -19,26 +19,41 @@
 Connect with Me :
 <a href="https://www.linkedin.com/in/zeyad-mohamed-1672b224b/" target="_blank"><img src="https://img.shields.io/badge/-Zeyad%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <br/>
-🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack  
 <br/>
+
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-<br/>
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-<br/>
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-<br/>
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<br/>
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-<br/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js)&nbsp;
+![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Pinia](https://img.shields.io/badge/-Pinia-05122A?style=flat&logo=vue.js)&nbsp;
+![Vuex](https://img.shields.io/badge/-Vuex-05122A?style=flat&logo=vuex)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat&logo=redux)&nbsp;
+![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=react)&nbsp;
+![Vee Validate](https://img.shields.io/badge/-Vee%20Validate-05122A?style=flat&logo=vee-validate)&nbsp;
+![Yup](https://img.shields.io/badge/-Yup-05122A?style=flat&logo=yup)&nbsp;
+![Pusher](https://img.shields.io/badge/-Pusher-05122A?style=flat&logo=pusher)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io)&nbsp;
+![Google Maps](https://img.shields.io/badge/-Google%20Maps%20API-05122A?style=flat&logo=google-maps)&nbsp;
+![PrimeVue](https://img.shields.io/badge/-PrimeVue-05122A?style=flat&logo=primevue)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify)&nbsp;
+![Headless UI](https://img.shields.io/badge/-Headless%20UI-05122A?style=flat&logo=headlessui)&nbsp;
+![AOS Animate](https://img.shields.io/badge/-AOS%20Animate-05122A?style=flat&logo=aos)&nbsp;
+![WOW.js](https://img.shields.io/badge/-WOW.js-05122A?style=flat&logo=wow)&nbsp;
+![I18n](https://img.shields.io/badge/-Vue%20I18n-05122A?style=flat&logo=vue.js)&nbsp;
+![Nuxt UI](https://img.shields.io/badge/-Nuxt%20UI-05122A?style=flat&logo=nuxt.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-<br/>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br/>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br/>
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-<br/>
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+
 
 
 
